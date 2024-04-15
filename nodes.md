@@ -17,3 +17,8 @@
 
 # JAVASCRIPT DEFER/ASYNC
  https://www.braziljs.org/p/diferencas-entre-async-e-defer
+
+
+
+ # packages install 
+ npm install @babel/core @babel/preset-env postcss autoprefixer browser-sync cssnano dart-sass gulp gulp-babel gulp-postcss gulp-sass gulp-terser
