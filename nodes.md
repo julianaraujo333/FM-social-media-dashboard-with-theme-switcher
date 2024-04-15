@@ -13,3 +13,7 @@
 
 # SASS 
  https://css-tricks.com/snippets/sass/px-to-em-functions/
+
+
+# JAVASCRIPT DEFER/ASYNC
+ https://www.braziljs.org/p/diferencas-entre-async-e-defer
